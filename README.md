@@ -139,12 +139,12 @@ print(fed)
 
 | Project           | Description                                             | Tech                 |
 | ----------------- | ------------------------------------------------------- | -------------------- |
-| 🛕 **FED-TEMPLE** | Interactive 3D cathedral from GitHub contributions      | JavaScript, Three.js |
-| 📡 **Fed-Poster** | Multi-platform publishing (write once, post everywhere) | Python, APIs         |
-| 🏗️ **FED-SHELL** | Universal URL wrapper + GitHub Actions builder          | JavaScript, Actions  |
-| 🎙️ **FED-TTS**   | Offline TTS + Read Aloud + Grammarly clone              | Python, Streamlit    |
-| 🌊 **Surf-FED**   | Electron browser with Chrome extension support          | Electron, JS         |
-| 🔁 **Fed-Dup**    | Database-free Git mirroring engine                      | Python, Streamlit    |
+| 🛕 **Repo Viewer** | Interactive 3D cathedral from GitHub contributions      | JavaScript, Three.js |
+| 📡 **Social Tools** | Multi-platform publishing (write once, post everywhere) | Python, APIs         |
+| 🏗️ **Application** | Universal URL wrapper + GitHub Actions builder          | JavaScript, Actions  |
+| 🎙️ **Transcrption**   | Offline TTS + Read Aloud + Grammarly clone              | Python, Streamlit    |
+| 🌊 **Internet Broswer**   | Electron browser with Chrome extension support          | Electron, JS         |
+| 🔁 **Duplication**    | Database-free Git mirroring engine                      | Python, Streamlit    |
 
 ---
 
