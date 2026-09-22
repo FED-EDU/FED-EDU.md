@@ -160,12 +160,6 @@ An experiment in replicating Git repositories and workflows without requiring a 
 
 ## 🌀 CONTRIBUTION ENERGY
 
-<div align="center">
-
-<a href="https://github.com/PromptFed">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=PromptFed&bg_color=090014&color=00e5ff&line=ff2d95&point=f5c542&area=true&hide_border=true" width="100%" alt="PromptFED contribution activity graph"/>
-</a>
-
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=PromptFed&show_icons=true&theme=radical&hide_border=true&bg_color=090014&title_color=00e5ff&icon_color=ff2d95&text_color=ffffff" height="170" alt="PromptFED GitHub statistics"/>
